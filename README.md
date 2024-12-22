@@ -5,12 +5,13 @@
 ###
 
 <br clear="both">
+<br clear="both">
 
 <h1 align="center">I code with..</h1>
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="55" alt="javascript logo"  />
@@ -35,27 +36,29 @@
 
 ###
 
+<br clear="both">
+<br clear="both">
+
 <h2 align="center">Social Media</h2>
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <a href="mdjaoyed@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="42" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="50" alt="gmail logo"  />
   </a>
   <a href="+880 1760618479" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="42" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="50" alt="whatsapp logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="42" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="50" alt="twitter logo"  />
   <a href="https://www.facebook.com/MdJawadOfficial" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="42" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="50" alt="facebook logo"  />
   </a>
   <a href="https://instagram.com/jawad.ahmad10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="42" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=@Jawadofficialbd&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="42" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=@Jawadofficialbd&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="50" alt="telegram logo"  />
 </div>
 
 ###
