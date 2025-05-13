@@ -26,9 +26,11 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="50" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/Matplotlib-F7DF1E?logo=python&logoColor=white&style=for-the-badge" height="55" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white&style=for-the-badge" height="55" alt="pandas logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/Seaborn-F7DF1E?logo=python&logoColor=white&style=for-the-badge" height="55" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge" height="55" alt="pandas logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Excel-3776AB?logo=excel&logoColor=white&style=for-the-badge" height="55" alt="pandas logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="50" alt="html5 logo"  />
   <img width="15" />
