@@ -16,9 +16,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="55" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/Numpy-3776AB?logo=numpy&logoColor=blue&style=for-the-badge" height="55" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Numpy-E34F26?logo=numpy&logoColor=blue&style=for-the-badge" height="55" alt="numpy logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/Pandas-3776AB?logo=pandas&logoColor=blue&style=for-the-badge" height="55" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/Pandas-E34F26?logo=pandas&logoColor=blue&style=for-the-badge" height="55" alt="pandas logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="55" alt="python logo"  />
   <img width="15" />
