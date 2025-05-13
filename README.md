@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 height="70" align="center">🌟Hello World! I am Jawad, An aspirant MERN Stack Developer</h1>
+<h1 height="70" align="center">🌟Hello World! I am Jawad, An aspiring Data Analyst and MERN Stack Developer</h1>
 
 ###
 
