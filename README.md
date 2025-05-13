@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="55" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://img.shields.io/badge/Numpy-F7DF1E?logo=numpy&logoColor=black&style=for-the-badge" height="55" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Numpy-F7DF1E?logo=numpy&logoColor=blue&style=for-the-badge" height="55" alt="numpy logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="55" alt="python logo"  />
   <img width="15" />
