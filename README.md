@@ -66,7 +66,6 @@
   <a href="https://instagram.com/jawad.ahmad10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=@Jawadofficialbd&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="50" alt="telegram logo"  />
 </div>
 
 ###
